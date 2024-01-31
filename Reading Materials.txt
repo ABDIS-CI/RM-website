@@ -1,0 +1,609 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        ABDIS PPT ASPIRe
+    </title>
+</head>
+
+<body style="background-color:#FFAA80;"></body>   
+    <center>
+        <div class="container">
+      <div class="image"> 
+        <img src="file:///F:/website/Web%20Page/Picture2.png" width="1095" height="225">    	
+
+<div class="COLUMN">
+  <div class="column">
+  <style>
+h1.ex1 {
+  margin-left: 2px;
+  margin-top: 2px;
+}
+</style>
+
+<h1 class="ex1"><font face="tahoma"><font size="5">STEP 1:PRE-READING</h1>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 5px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 80px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+<div class="btn-group"><a href="file:///F:/CI%20Batch2/PPT-ASPIRe/Training%20Workshop/Printable/Step%201%20-%20Printable.pdf"><button>PRINTABLE</button></a></div>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 2px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 80px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+<div class="btn-group"><a href="https://depedph-my.sharepoint.com/:p:/r/personal/arzylette_magsayo_deped_gov_ph/Documents/Step%201%20-%20MS-PPT.pptx?d=w6982c74ca8764c7f8df43afcaedb3781&csf=1&web=1&e=hOhZ3G"><button>POWERPOINT</button></a>
+</div>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 2px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 2px;
+  margin-top: 2px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 50%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+
+<div class="btn-group"><a href="file:///F:/CI%20Batch2/PPT-ASPIRe/Training%20Workshop/Video/Step%201%20-%20PPT.mp4"><button>VIDEO</button></a>
+</div>
+
+<h1 class="ex1"><font face="tahoma"><font size="5">STEP 2:LEARNING LETTERS</h1>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 5px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 80px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+<div class="btn-group"><a href="file:///F:/CI%20Batch2/PPT-ASPIRe/Training%20Workshop/Printable/Step%202%20-%20Printable.pdf">
+  <button>PRINTABLE</button></a>
+</div>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 2px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 80px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+<div class="btn-group"><a href="https://depedph-my.sharepoint.com/:p:/r/personal/arzylette_magsayo_deped_gov_ph/Documents/Step%202%20-%20MS-PPT.pptx?d=w98854487aa224ff6adb00839740aefbe&csf=1&web=1&e=LCZSlx">
+  <button>POWERPOINT</button></a>
+</div>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 2px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 2px;
+  margin-top: 2px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 50%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+
+<div class="btn-group"><a href="file:///F:/CI%20Batch2/PPT-ASPIRe/Training%20Workshop/Video/Step%202%20-%20PPT.mp4">
+  <button>VIDEO</button></a>
+</div>
+
+<h1 class="ex1"><font face="tahoma"><font size="5">STEP 3:INTRODUCING VC AND CV WORDS</h1>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 5px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 80px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+<div class="btn-group"><a href="file:///F:/CI%20Batch2/PPT-ASPIRe/Training%20Workshop/Printable/Step%203%20-%20Printable.pdf">
+  <button>PRINTABLE</button></a>
+</div>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 2px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 80px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+<div class="btn-group"><a href="https://depedph-my.sharepoint.com/:p:/r/personal/arzylette_magsayo_deped_gov_ph/Documents/Step%203%20-%20MS-PPT.pptx?d=wf4c76accc34e4efdbb13b211e0e8ecc1&csf=1&web=1&e=X2ylUa">
+  <button>POWERPOINT</button></a>
+</div>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 2px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 2px;
+  margin-top: 2px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 50%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+
+<div class="btn-group"><a href="file:///F:/CI%20Batch2/PPT-ASPIRe/Training%20Workshop/Video/Step%203%20-%20PPT.mp4">
+  <button>VIDEO</button></a>
+</div>
+
+<h1 class="ex1"><font face="tahoma"><font size="5">STEP 4:BLENDING SOUNDS</h1>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 5px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 80px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+<div class="btn-group"><a href="file:///F:/CI%20Batch2/PPT-ASPIRe/Training%20Workshop/Printable/Step%204%20-%20Printable.pdf">
+  <button>PRINTABLE</button></a>
+</div>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 2px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 80px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+<div class="btn-group"><a href="https://depedph-my.sharepoint.com/:p:/r/personal/arzylette_magsayo_deped_gov_ph/Documents/Step%204%20-%20MS-PPT.pptx?d=w67246db289ef4ce38e15e7454e0b9617&csf=1&web=1&e=BAJEoo">
+  <button>POWERPOINT</button></a>
+</div>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 2px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 2px;
+  margin-top: 2px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 50%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+
+<div class="btn-group"><a href="file:///F:/CI%20Batch2/PPT-ASPIRe/Training%20Workshop/Video/Step%204%20-%20PPT.mp4">
+  <button>VIDEO</button></a>
+</div>
+
+<h1 class="ex1"><font face="tahoma"><font size="5">STEP 5:READING WORD FAMILIES</h1>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 5px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 80px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+<div class="btn-group"><a href="file:///F:/CI%20Batch2/PPT-ASPIRe/Training%20Workshop/Printable/Step%205%20-%20Printable.pdf">
+  <button>PRINTABLE</button></a>
+</div>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 2px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 80px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+<div class="btn-group"><a href="https://depedph-my.sharepoint.com/:p:/r/personal/arzylette_magsayo_deped_gov_ph/Documents/Step%205%20-%20MS-PPT.pptx?d=wcc53127abcc24db291c3665c85588a24&csf=1&web=1&e=DOirE5">
+  <button>POWERPOINT</button></a>
+</div>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 2px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 2px;
+  margin-top: 2px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 50%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+
+<div class="btn-group"><a href="file:///F:/CI%20Batch2/PPT-ASPIRe/Training%20Workshop/Video/Step%205%20-%20PPT.mp4">
+  <button>VIDEO</button></a>
+</div>
+
+<h1 class="ex1"><font face="tahoma"><font size="5">STEP 6:PHONICS PATTERNS</h1>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 5px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 80px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+<div class="btn-group"><a href="file:///F:/CI%20Batch2/PPT-ASPIRe/Training%20Workshop/Printable/Step%206%20-%20Printable.pdf">
+  <button>PRINTABLE</button></a>
+</div>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 2px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 80px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+<div class="btn-group"><a href="https://depedph-my.sharepoint.com/:p:/r/personal/arzylette_magsayo_deped_gov_ph/Documents/Step%206%20-%20MS-PPT.pptx?d=w9692398577c64fb29854ff633bfd2826&csf=1&web=1&e=oqx3fs">
+  <button>POWERPOINT</button></a>
+</div>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 2px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 2px;
+  margin-top: 2px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 50%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+
+<div class="btn-group"><a href="file:///F:/CI%20Batch2/PPT-ASPIRe/Training%20Workshop/Video/Step%206%20-%20PPT.mp4">
+  <button>VIDEO</button></a>
+</div>
+
+<h1 class="ex1"><font face="tahoma"><font size="5">STEP 7:READING WORDS AND PHRASES</h1>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 5px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 80px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+<div class="btn-group"><a href="file:///F:/CI%20Batch2/PPT-ASPIRe/Training%20Workshop/Printable/Step%207%20-%20Printable.pdf">
+  <button>PRINTABLE</button></a>
+</div>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 2px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 80px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+<div class="btn-group"><a href="https://depedph-my.sharepoint.com/:p:/r/personal/arzylette_magsayo_deped_gov_ph/Documents/Step%207%20-%20MS-PPT.pptx?d=wd10cef45b269472090aa22568d530b92&csf=1&web=1&e=3tYsug">
+  <button>POWERPOINT</button></a>
+</div>
+
+<style>
+.btn-group button {
+  background-color: #1809D0 ; /* blue background */
+  border: 2px solid white; /* white border */
+  color: white; /* White text */
+  margin-left: 2px;
+  margin-top: 2px;
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 50%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+
+<div class="btn-group"><a href="file:///F:/CI%20Batch2/PPT-ASPIRe/Training%20Workshop/Video/Step%207%20-%20PPT.mp4">
+  <button>VIDEO</button></a>
+</div>
+
+
+</body>  
+</html>
